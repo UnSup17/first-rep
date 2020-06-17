@@ -1,0 +1,25 @@
+.borde {
+    border: 1px #000 solid;
+    border-collapse: collapse;
+    text-align: center;
+    height: 50px;
+    width: 50%;
+}
+
+.color1{background: #eeeeee;}
+.color2{background: #ffbf00;}
+.color3{background: #94ac3c;}
+.color4{background: #295ba7;}
+.color5{background: #225e8fb4;}
+
+
+body{
+    color: lightslategray;
+    background-color: lightslategray;
+}
+
+body>div{
+    text-align: center;
+    margin: 40px;
+    width: 50%;
+}
